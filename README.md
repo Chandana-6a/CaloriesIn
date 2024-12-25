@@ -22,10 +22,7 @@ The App is developed using the following technologies:
 
 <p align="center">
   <img src="CaloriesIn/Assets.xcassets/CaloriesInTake1.imageset/CaloriesInTake1.png" alt="User Authentication Interface" width="17.4%" />  &nbsp;
-  <img src="App Screenshots/Home2.png" alt="Home Screen" width="17%"/>  &nbsp;
-  <img src="App Screenshots/search.png" alt="Location Search with suggetsions" width="17.35%" />  &nbsp;
-  <img src="App Screenshots/map.png" alt="Map for Directions" width="18%" />  &nbsp;
-  <img src="App Screenshots/userProfile.png" alt="User Profile" width="17.7%" />  &nbsp;
+  <img src="CaloriesIn/Assets.xcassets/CaloriesInTake1.imageset/CaloriesInTake2.png" alt="Home Screen" width="17%"/>  &nbsp;
+  <img src="CaloriesIn/Assets.xcassets/CaloriesInTake1.imageset/CaloriesInTake3.png" alt="Location Search with suggetsions" width="17.35%" />  &nbsp;
+  <img src="CaloriesIn/Assets.xcassets/CaloriesInTake1.imageset/CaloriesInTake4.png" alt="Map for Directions" width="18%" />  &nbsp;
 </p>
-
----
